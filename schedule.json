@@ -1,0 +1,6782 @@
+{
+ "effective_from": "01.10.2026",
+ "parsed_at": "2026-10-02T20:10:49",
+ "groups": {
+  "160-ТМ-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-03",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физика",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Губко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Физика",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     },
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "161-ТМ-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-02",
+      "teacher": "Рупека",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физика",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физика",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Губко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Информатика",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "История",
+      "room": "Б 4-01",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     },
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "139-ТО-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 3-06",
+      "teacher": "Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 1-07",
+      "teacher": "Рупека",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Физика",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-02",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физика",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     },
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     },
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Ефремов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "А 1-02",
+      "teacher": "Качалина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физика",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "130-СВ-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 3-04",
+      "teacher": "Иськова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Ефремов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "История",
+      "room": "А 1-02",
+      "teacher": "Карпухно",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Математика",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     }
+    ],
+    "1": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-04",
+      "teacher": "Рупека",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "131-КСВ-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Подгорный",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-03",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-03",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 1-07",
+      "teacher": "Подгорный",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Биология,",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     },
+     {
+      "subject": "История",
+      "room": "А 1-04",
+      "teacher": "Карпухно",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-02",
+      "teacher": "Рупека",
+      "parse_ok": true
+     },
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "110-ОНС-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "М-8",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Ефремов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Введение в специальность",
+      "room": "А М-8",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Физика",
+      "room": "А М-13",
+      "teacher": "Соколова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "История",
+      "room": "А 1-02",
+      "teacher": "Карпухно",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "А 1-02",
+      "teacher": "Качалина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "2": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физика",
+      "room": "А М-13",
+      "teacher": "Соколова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Математика",
+      "room": "А 1-11",
+      "teacher": "Евпак",
+      "parse_ok": true
+     },
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-02",
+      "teacher": "Рупека",
+      "parse_ok": true
+     },
+     {
+      "subject": "Математика",
+      "room": "А 1-02",
+      "teacher": "Евпак",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "150-КЭП-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-03",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "А 1-02",
+      "teacher": "Качалина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Литература",
+      "room": "Б 3-03",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-02",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-03",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     },
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-1",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "108-КДП-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-03",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "История",
+      "room": "А 1-04",
+      "teacher": "Климова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "А 1-02",
+      "teacher": "Качалина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "История",
+      "room": "А 1-04",
+      "teacher": "Климова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "2": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     },
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "А 3-05",
+      "teacher": "Шуринова",
+      "parse_ok": true
+     }
+    ],
+    "1": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "109-ПК-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Л-1",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Литература",
+      "room": "Б 1-07",
+      "teacher": "Хорошавцева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-1",
+      "teacher": "Ефремов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Хорошавцева",
+      "parse_ok": true
+     },
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-05",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     },
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "А 1-02",
+      "teacher": "Качалина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Безруких",
+      "parse_ok": true
+     },
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Математика",
+      "room": "Б 2-01",
+      "teacher": "Десятова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "103-КАРХ-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 2-01",
+      "teacher": "Котова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Введение в специальность",
+      "room": "А 2-08",
+      "teacher": "Волосатова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-02",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Литература",
+      "room": "библ.",
+      "teacher": "Гаврилова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "А 1-02",
+      "teacher": "Качалина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Ефремов",
+      "parse_ok": true
+     },
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-03",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Литература",
+      "room": "библ.",
+      "teacher": "Гаврилова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "1": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "103-КСЭЗ-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "А 1-02",
+      "teacher": "Качалина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Математика",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Губко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-03",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-07",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Введение в специальность",
+      "room": "А 3-03",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Иностранный язык",
+      "room": "А 1-12",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Математика",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "103-ИМС-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Введение в специальность",
+      "room": "А 1-12",
+      "teacher": "Безруиких",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "А 1-02",
+      "teacher": "Качалина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Литература",
+      "room": "Б 1-07",
+      "teacher": "Хорошавцева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 2-01",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Математика",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Литература",
+      "room": "Б 1-09",
+      "teacher": "Хорошавцева",
+      "parse_ok": true
+     },
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Ефремов",
+      "parse_ok": true
+     },
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-03",
+      "teacher": "Колосова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     },
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "101-КТЭС-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 1-12",
+      "teacher": "Шкуропекина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Математика",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Ефремов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Математика",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физика",
+      "room": "А 1-12",
+      "teacher": "Терентьева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "География",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Обществознан ие",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Математика",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Введение в специальность",
+      "room": "Б 2-02",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Информатика",
+      "room": "Б 2-06",
+      "teacher": "Петрусенко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-04",
+      "teacher": "Рупека",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "103-РАП-26": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 3-03",
+      "teacher": "Губко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физика",
+      "room": "А М-13",
+      "teacher": "Соколова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Подгорный",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Русский язык",
+      "room": "Б 3-03",
+      "teacher": "Рупека",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физика",
+      "room": "А М-13",
+      "teacher": "Соколова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Математика",
+      "room": "А 4-07",
+      "teacher": "Евпак",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Физика",
+      "room": "А М-13",
+      "teacher": "Соколова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Информатика",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "А 4-07",
+      "teacher": "Евпак",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Основы безопасности и защиты Родины",
+      "room": "Б 4-01",
+      "teacher": "Подгорный",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "История",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     },
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Ефремов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Индивидуальны й проект",
+      "room": "А 1-02",
+      "teacher": "Качалина",
+      "parse_ok": true
+     },
+     {
+      "subject": "Биология",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Литература",
+      "room": "Б 3-02",
+      "teacher": "Бархатова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "258-ТМ-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 04.01",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 06.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физисеская культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "2": [
+     {
+      "subject": "Процессы формообразова ния и инструменты",
+      "room": "А 3-03",
+      "teacher": "Попова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Процессы формообразова ния и инструменты",
+      "room": "А 3-03",
+      "teacher": "Попова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 06.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 02.01",
+      "room": "М-13",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "МДК 02.01",
+      "room": "М-13",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Процессы формообразова ния и инструменты",
+      "room": "А 3-03",
+      "teacher": "Попова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Компьютерная графика",
+      "room": "А 3-01 3-09",
+      "teacher": "Волосатова, Шпигоревская",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 04.01",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Техническая механика",
+      "room": "А 1-11",
+      "teacher": "Фоменко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Техническая механика",
+      "room": "А 1-11",
+      "teacher": "Фоменко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 06.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "259-ТМ-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 1-04",
+      "teacher": "Климова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 06.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А М-13",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Процессы формообразова ния и инструменты",
+      "room": "А 3-03",
+      "teacher": "Попова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Техническая механика",
+      "room": "А 1-11",
+      "teacher": "Фоменко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 04.01",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 02.01",
+      "room": "М-13",
+      "teacher": "Соколов",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 06.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 04.01",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 06.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Процессы формообразован ия и инструменты",
+      "room": "А 3-03",
+      "teacher": "Попова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "2": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Техническая механика",
+      "room": "А 1-11",
+      "teacher": "Фоменко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Процессы формообразова ния и инструменты",
+      "room": "А 3-03",
+      "teacher": "Попова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Компьютерная графика",
+      "room": "А 3-01 3-09",
+      "teacher": "Волосатова, Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "1": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "238-ТО-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физисеская культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Электротехни ка и основы электроники",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-06",
+      "teacher": "Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-06",
+      "teacher": "Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Технологическо е оборудование",
+      "room": "А 3-06",
+      "teacher": "Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "2": [
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Технологическо е оборудование",
+      "room": "А 3-06",
+      "teacher": "Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Обработка металлов резанием, станки и инструменты",
+      "room": "Б 1-07",
+      "teacher": "Санкина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Техническая механика",
+      "room": "А 1-11",
+      "teacher": "Фоменко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Техническая механика",
+      "room": "А 1-11",
+      "teacher": "Фоменко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Электротехни ка и основы электроники",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     },
+     {
+      "subject": "Электротехни ка и основы электроники",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "229-СВ-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы инженерной графики",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Основы электротехни ки",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Ефремов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 01.04",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 03.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 03.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Основы инженерной графики",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.02",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Основы электротехни ки",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.02",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "МДК 01.04",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "209-ОНС-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 1-02",
+      "teacher": "Качалина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "А 1-12",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Техническое черчение",
+      "room": "А 2-07 2-08",
+      "teacher": "Коренко, Волосатова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Технические измерения, допуски и посадки",
+      "room": "А 1-02",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А М-13",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 01.01",
+      "room": "М-8",
+      "teacher": "Овсянников",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.01",
+      "room": "М-8",
+      "teacher": "Овсянников",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.01",
+      "room": "М-13",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "2": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.01",
+      "room": "М-10",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Техническое черчение",
+      "room": "А 2-07 2-08",
+      "teacher": "Коренко Волосатова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 02.01",
+      "room": "М-10",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "МДК 01.01",
+      "room": "М-8",
+      "teacher": "Овсянников",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.01",
+      "room": "М-8",
+      "teacher": "Овсянников",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.01",
+      "room": "М-8",
+      "teacher": "Соколов",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.01",
+      "room": "М-8",
+      "teacher": "Овсянников",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Технические измерения, допуски и посадки",
+      "room": "А 3-06",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "249-КЭП-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "ИТПД",
+      "room": "А М-13",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Экономика организации",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "ДОУ",
+      "room": "А 2-03",
+      "teacher": "Войнова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Основы бух.учета",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы бух.учета",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-1",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Основы бух.учета",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Иностранный язык",
+      "room": "библ.",
+      "teacher": "Шуринова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "ДОУ",
+      "room": "А 2-03",
+      "teacher": "Войнова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Безопасность жизнедеятельн ости",
+      "room": "Б 4-01",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "2": [
+     {
+      "subject": "Статистика",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "ИТПД",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.01",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Налоги и налогооблажен ие",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Налоги и налогооблажен ие",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "История России",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "207-КДП-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 2-03",
+      "teacher": "Войнова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы делопроизводс тва",
+      "room": "А 3-05",
+      "teacher": "Глухова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "История России",
+      "room": "А 1-04",
+      "teacher": "Климова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "библ.",
+      "teacher": "Шуринова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-1",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы делопроизводс тва",
+      "room": "А 3-05",
+      "teacher": "Глухова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Архивное дело",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Иностранный язык",
+      "room": "библ.",
+      "teacher": "Шуринова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-1",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Основы делопроизводс тва",
+      "room": "А 3-05",
+      "teacher": "Глухова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "История России",
+      "room": "А 1-04",
+      "teacher": "Климова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Архивное дело",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "207-ПК-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б 1-07",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Правовые основы профессиональ ной деятельности",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Физисеская культура",
+      "room": "Б С-1",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б 1-07",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "История",
+      "room": "А 1-04",
+      "teacher": "Климова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Организация хранения и контроль запасов и сырья",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Микробиология",
+      "room": "Б 3-06",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б 3-02",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Микробиология",
+      "room": "Б Л-1",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Организация хранения и контроль запасов и сырья",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Рисование и лепка",
+      "room": "Б 2-02",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Основы экономики, менеджмента и маркетинга",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Иностранный язык",
+      "room": "А 1-12",
+      "teacher": "Безруких",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Организация хранения и контроль запасов и сырья",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "208-КПК-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 2-03",
+      "teacher": "Войнова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физисеская культура",
+      "room": "Б С-1",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Микробиология",
+      "room": "Б 2-01",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "2": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Правовые основы профессиональ ной деятельности",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Организация хранения и контроль запасов и сырья",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Основы экономики, менеджмента и маркетинга",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "История",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Организация хранения и контроль запасов и сырья",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     },
+     {
+      "subject": "Рисование и лепка",
+      "room": "Б 1-07",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     },
+     {
+      "subject": "Микробиология",
+      "room": "Б 1-07",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Организация хранения и контроль запасов и сырья",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Химия",
+      "room": "А 4-03",
+      "teacher": "Шляхова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "202-КАРХ-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 4-01",
+      "teacher": "Маторнова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Техническая механика",
+      "room": "А 1-11",
+      "teacher": "Фоменко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.01",
+      "room": "Б 1-09",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "История России",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Начертательн ая геометрия",
+      "room": "А 2-07 2-08",
+      "teacher": "Волосатова, Коренко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Губко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Основы финансовой грамотности",
+      "room": "А 3-05",
+      "teacher": "Ворошилова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Иностранный язык",
+      "room": "библ.",
+      "teacher": "Шуринова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 02.01",
+      "room": "Б 3-01",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Техническая механика",
+      "room": "А 1-11",
+      "teacher": "Фоменко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Основы финансовой грамотности",
+      "room": "А 3-05",
+      "teacher": "Ворошилова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Основы строительного производства",
+      "room": "А 3-05",
+      "teacher": "Шкурапекина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Начертательн ая геометрия",
+      "room": "А 2-07 2-08",
+      "teacher": "Коренко, Волосатова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы строительного производства",
+      "room": "А 3-05",
+      "teacher": "Шкурапекина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 1-11",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "История России",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 02.02",
+      "room": "А 3-06",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "МДК 02.01",
+      "room": "Б 3-03",
+      "teacher": "Федоров",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 02.02",
+      "room": "А 2-03",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.02",
+      "room": "Б 3-03",
+      "teacher": "Федоров",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 02.02",
+      "room": "А 2-03",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "202-КСЭЗ-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 3-05",
+      "teacher": "Ворошилова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы предпринимате льской деятельности",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07",
+      "teacher": "Коренко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "ИТПД",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 06.01",
+      "room": "А М-8",
+      "teacher": "Осипова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы финансовой грамотности",
+      "room": "А 3-05",
+      "teacher": "Ворошилова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Основы предпринимат ельской деятельности",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-2",
+      "teacher": "Губко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы геодезии",
+      "room": "А М-10",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Математически е методы решения прикладных профессиональн ых задач",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 06.01",
+      "room": "А М-8",
+      "teacher": "Осипова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Техническая механика",
+      "room": "А 1-11",
+      "teacher": "Фоменко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математически е методы решения прикладных профессиональн ых задач",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "ИТПД",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Иностранный язык",
+      "room": "библ.",
+      "teacher": "Шуринова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07",
+      "teacher": "Коренко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Инженерная графика",
+      "room": "А 2-07",
+      "teacher": "Коренко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Основы геодезии",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Техническая механика",
+      "room": "А 1-11",
+      "teacher": "Фоменко",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "202-ИМС-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 1-09",
+      "teacher": "Меньшакова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.02",
+      "room": "А 3-03",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Безопасность жизнедеятельн ости",
+      "room": "Б 3-01",
+      "teacher": "Губко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 04.01",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Основы BIM- моделирования",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Прикладные компьютерные программы в ПД",
+      "room": "А 3-03",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 4-05",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 03.01",
+      "room": "Б 4-05",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Ефремов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 04.01",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "МДК 03.01",
+      "room": "Б 2-06",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы BIM- моделирования",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Прикладные компьютерные программы в ПД",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Безопасность жизнедеятельности",
+      "room": "Б 3-04",
+      "teacher": "Губко",
+      "parse_ok": true
+     },
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 04.01",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 04.01",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 03.02",
+      "room": "А 3-01",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "202-КИСП-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 1-02",
+      "teacher": "Сорокина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Элементы высшей математики",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "История",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Архитектура аппаратных средств",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Информационн ые технологии",
+      "room": "А 3-09",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Операционные системы и среды",
+      "room": "А 3-09",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.04",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Элементы высшей математики",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Операционные системы и среды",
+      "room": "Б 3-03",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "История",
+      "room": "Б 4-02",
+      "teacher": "Семенов",
+      "parse_ok": true
+     },
+     {
+      "subject": "Элементы высшей математики",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "МДК 01.04",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.04",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 11.1",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Глухов МДК 01.03",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 11.1",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Дискретная математика с элементами математической логики",
+      "room": "Б 3-04",
+      "teacher": "Моисеенко",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "202-РАП-25": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 1-07",
+      "teacher": "Санкина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 01.02",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Электротехни ка",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 01.02",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.02",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Электротехни ка",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А М-13",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-1",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "2": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 02.02",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.02",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-07",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "1": [
+     {
+      "subject": "МДК 02.02",
+      "room": "А 4-07",
+      "teacher": "Войнов",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "356-ТМ-24": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 3-01",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Технология машиностроен ия",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 06.02",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 06.02",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 04.03",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 3-01",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Процессы формообразова ния и инструменты",
+      "room": "А 3-03",
+      "teacher": "Попова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "МДК 06.02",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Технология машиностроен ия",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 04.03",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "МДК 04.03",
+      "room": "А 3-06",
+      "teacher": "Князева",
+      "parse_ok": true
+     },
+     {
+      "subject": "Материаловед ение",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 06.02",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     },
+     {
+      "subject": "Процессы формообразова ния и инструменты",
+      "room": "А 3-03",
+      "teacher": "Попова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 04.03",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 02.01",
+      "room": "М-13",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "357-ТМ-24": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А М-10",
+      "teacher": "Петрова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Технология машиностроен ия",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 04.03",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 06.02",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 04.03",
+      "room": "А 1-12",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 04.03",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 3-01",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 06.02",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Процессы формообразова ния и инструменты",
+      "room": "А 4-09",
+      "teacher": "Попова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 3-01",
+      "teacher": "Соколов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Технология машиностроен ия",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Материаловед ение",
+      "room": "А 4-05",
+      "teacher": "Сиротова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "МДК 02.01",
+      "room": "М-13",
+      "teacher": "Соколов",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 06.02",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 06.02",
+      "room": "А 4-01",
+      "teacher": "Шульц",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Процессы формообразова ния и инструменты",
+      "room": "А 3-06",
+      "teacher": "Попова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 04.03",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "337-ТО-24": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Метрология, стандартизаци я и технические измерения",
+      "room": "А 3-06",
+      "teacher": "Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-06",
+      "teacher": "Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 05.02",
+      "room": "А 4-09",
+      "teacher": "Китаев",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 05.02",
+      "room": "А 4-09",
+      "teacher": "Китаев",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Компьютерная графика",
+      "room": "А 3-10 3-09",
+      "teacher": "Князева, Шпигоревская",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Метрология, стандартизаци я и технические измерения",
+      "room": "А 3-06",
+      "teacher": "Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Технология отрасли",
+      "room": "Б 1-07",
+      "teacher": "Санкина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 05.02",
+      "room": "А 4-09",
+      "teacher": "Китаев",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Компьютерная графика",
+      "room": "А 3-01 3-09",
+      "teacher": "Князева, Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "История России",
+      "room": "А 1-04",
+      "teacher": "Климова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Технология отрасли",
+      "room": "Б 1-07",
+      "teacher": "Санкина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Технология отрасли",
+      "room": "Б 1-07",
+      "teacher": "Санкина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.01",
+      "room": "А 3-06",
+      "teacher": "Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Компьютерная графика",
+      "room": "А 3-01 3-09",
+      "teacher": "Князева, Шпигоревская",
+      "parse_ok": true
+     },
+     {
+      "subject": "Метрология, стандартизаци я и технические измерения",
+      "room": "А 3-06",
+      "teacher": "Шпигоревская",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "История России",
+      "room": "А 1-04",
+      "teacher": "Климова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "306-КПК-24": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.01",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "ИТПД",
+      "room": "А 3-03",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.02",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.01",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Безопасность жизнедеятельн ости",
+      "room": "Б 4-01",
+      "teacher": "Подгорный",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "2": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.02",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 07.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     },
+     {
+      "subject": "Безопасность жизнедеятельности",
+      "room": "Б 1-07",
+      "teacher": "Подгорный",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Безопасность жизнедеятель ности",
+      "room": "Б 1-09",
+      "teacher": "Подгорный",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.02",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-1",
+      "teacher": "Михалева",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 02.02",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.02",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Безопасность жизнедеятель ности",
+      "room": "Б 4-01",
+      "teacher": "Подгорный",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "ИТПД",
+      "room": "Б 2-07",
+      "teacher": "Рухляда",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.02",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "301-КСЭЗ-24": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 3-01",
+      "teacher": "Карпенко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 05.01",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 2-04",
+      "teacher": "Шкурапекина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 2-04",
+      "teacher": "Шкурапекина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 05.01",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02,01",
+      "room": "А 1-11",
+      "teacher": "Шкурапекина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Логистика",
+      "room": "Б М 2-02",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 05.01",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 4-01",
+      "teacher": "Шкурапекина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Логистика",
+      "room": "М 2-02",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "МДК 05.01",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 05.01",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 2-08",
+      "teacher": "Шкурапекина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "МДК 05.01",
+      "room": "Б 2-07",
+      "teacher": "Чичкина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 02.02",
+      "room": "А 3-05",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Логистика",
+      "room": "М 2-02",
+      "teacher": "Денисова",
+      "parse_ok": true
+     },
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.01",
+      "room": "А 2-08",
+      "teacher": "Шкурапекина",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "301-КИСП-24": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 1-02",
+      "teacher": "Сорокина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Психологияоб щения",
+      "room": "Б 2-01",
+      "teacher": "Леонова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 01.02",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "2": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 01.02",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "МДК 02.02",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Психология общения",
+      "room": "Б 1-02",
+      "teacher": "Леонова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.02",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 02.02",
+      "room": "Б 4-06",
+      "teacher": "Глухов",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "348-КЭП-24": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 3-06",
+      "teacher": "Телипко",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Менеджмент",
+      "room": "А 2-04",
+      "teacher": "Карабарина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физисеская культура",
+      "room": "Б С-1",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 02.02",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Менеджмент",
+      "room": "А 3-05",
+      "teacher": "Карабарина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 03.01",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 04.01",
+      "room": "А 2-03",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "ПОПД",
+      "room": "А 3-05",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 06.01",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 03.01",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 04.01",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.02",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "МДК 04.01",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 04.02",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "библ.",
+      "teacher": "Шуринова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Правовое обеспечение профессиональ ной деятельности",
+      "room": "А 3-10",
+      "teacher": "Прудникова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 06.01",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 04.02",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 04.01",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 04.02",
+      "room": "А 2-04",
+      "teacher": "Закитина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 03.01",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "301-КАРХ-24": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 4-03",
+      "teacher": "Бабуева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 2-01",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.02",
+      "room": "А 2-08",
+      "teacher": "Волосатова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 2-02",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "История Архитектуры",
+      "room": "Б 3-02",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 3-03",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 3-03",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Рисунок и живопись",
+      "room": "А 2-07",
+      "teacher": "Коренко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Типология зданий",
+      "room": "Б 1-09",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Типология зданий",
+      "room": "А М-8",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 2-02",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Рисунок и живопись",
+      "room": "А 2-07",
+      "teacher": "Коренко",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Рисунок и живопись",
+      "room": "А 2-07",
+      "teacher": "Коренко",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.02",
+      "room": "А 2-08",
+      "teacher": "Волосатова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 01.02",
+      "room": "А 2-08",
+      "teacher": "Волосатова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 01.03",
+      "room": "Б 2-02",
+      "teacher": "Денисова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 01.01",
+      "room": "Б 3-03",
+      "teacher": "Федоров",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "301-КИМС-24": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 2-05",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.01",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 02.01",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Экономика отрасли",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 02.03",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Общие сведения об инженерных сетях территорий и зданий",
+      "room": "А 4-06",
+      "teacher": "Волосатов",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Экономика отрасли",
+      "room": "А 2-01",
+      "teacher": "Антипова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 02.02",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 02.02",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Проектирован ие многоэтажных зданий",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 03.01",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Антипова МДК 03.03",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Проектирован ие многоэтажных зданий",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 03.02",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 03.01",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 03.02",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 03.03",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "405-КПК-23": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 05.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 04.01",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 04.01",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "МДК 04.02",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы философии",
+      "room": "А 1-04",
+      "teacher": "Карпухно",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 05.01",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Основы философии",
+      "room": "А 3-05",
+      "teacher": "Карпухно",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 06.01",
+      "room": "А 2-03",
+      "teacher": "Войнова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Физическая культура",
+      "room": "Б С-1",
+      "teacher": "Михалева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Экологические основы природопользо вания",
+      "room": "А 2-05",
+      "teacher": "Карабарина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 06.01",
+      "room": "А 2-03",
+      "teacher": "Войнова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 04.02",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "МДК 04.02",
+      "room": "Б Л-1",
+      "teacher": "Крюкова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 05.02",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 06.01",
+      "room": "А 2-03",
+      "teacher": "Войнова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 05.02",
+      "room": "Б Л-2",
+      "teacher": "Войтеховская",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Экологические основы природопользован ия",
+      "room": "А 2-04",
+      "teacher": "Карабарина",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "436-ТО-23": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "Б 2-06",
+      "teacher": "Хорошавцева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физисеская культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 03.01",
+      "room": "А 4-09",
+      "teacher": "Китаев",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 03.02",
+      "room": "А 3-06",
+      "teacher": "Шпигореская",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Экономика отрасли",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 03.02",
+      "room": "А 3-06",
+      "teacher": "Шпигореская",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 03.03",
+      "room": "А 4-09",
+      "teacher": "Китаев",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Охрана труда",
+      "room": "А 2-04",
+      "teacher": "Карабарина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 03.01",
+      "room": "А 4-09",
+      "teacher": "Китаев",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "Охрана труда",
+      "room": "А 1-04",
+      "teacher": "Карабарина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 03.01",
+      "room": "А 4-09",
+      "teacher": "Китаев",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 03.02",
+      "room": "А 3-06",
+      "teacher": "Шпигореская",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 1-02",
+      "teacher": "Алексеева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "Технология отрасли",
+      "room": "Б 1-07",
+      "teacher": "Санкина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Экономика отрасли",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "МДК 03.01",
+      "room": "А 4-09",
+      "teacher": "Китаев",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 03.01",
+      "room": "А 4-09",
+      "teacher": "Китаев",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Экономика отрасли",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 03.03",
+      "room": "А 4-09",
+      "teacher": "Китаев",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Технология отрасли",
+      "room": "Б 1-07",
+      "teacher": "Санкина",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "454-ТМ-23": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А 3-03",
+      "teacher": "Попова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 05.01",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 05.01",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 03.01",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 05.02",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "ИТПД",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 05.02",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 03.01",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Компьютерная графика",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "1": [
+     {
+      "subject": "ИТПД",
+      "room": "А 3-03",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Метрология, стандартизаци я и сертификация",
+      "room": "А М-10",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Охрана труда",
+      "room": "А 1-04",
+      "teacher": "Карабарина",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "ИТПД",
+      "room": "А 3-03",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 05.01",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 05.02",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Основы бережливого производства",
+      "room": "А 3-05",
+      "teacher": "Карабарина",
+      "parse_ok": true
+     },
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ]
+   }
+  },
+  "455-ТМ-23": {
+   "ПОНЕДЕЛЬНИК": {
+    "1": [
+     {
+      "subject": "Час общения",
+      "room": "А М-13",
+      "teacher": "Соколова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 03.01",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "ИТПД",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "МДК 05.01",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ВТОРНИК": {
+    "1": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 05.01",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "ИТПД",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "СРЕДА": {
+    "1": [
+     {
+      "subject": "МДК 05.02",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "МДК 03.01",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "ИТПД",
+      "room": "А 3-01",
+      "teacher": "Черепанова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Математика",
+      "room": "Б 2-02",
+      "teacher": "Черешкевич",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ЧЕТВЕРГ": {
+    "2": [
+     {
+      "subject": "Охрана труда",
+      "room": "А М-8",
+      "teacher": "Карабарина",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "МДК 05.02",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ]
+   },
+   "ПЯТНИЦА": {
+    "1": [
+     {
+      "subject": "Основы бережливого производства",
+      "room": "А 2-05",
+      "teacher": "Карабарина",
+      "parse_ok": true
+     },
+     {
+      "subject": "Метрология, стандартизаци я и сертификация",
+      "room": "А 3-09",
+      "teacher": "Князева",
+      "parse_ok": true
+     }
+    ],
+    "2": [
+     {
+      "subject": "Физическая культура",
+      "room": "А",
+      "teacher": "Левина",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 05.01",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     },
+     {
+      "subject": "МДК 05.02",
+      "room": "А 2-05",
+      "teacher": "Мартилова",
+      "parse_ok": true
+     }
+    ],
+    "3": [
+     {
+      "subject": "Иностранный язык",
+      "room": "Б 3-05",
+      "teacher": "Кирикова",
+      "parse_ok": true
+     }
+    ],
+    "4": [
+     {
+      "subject": "Компьютерная графика",
+      "room": "Б 4-05",
+      "teacher": "Елгина",
+      "parse_ok": true
+     }
+    ]
+   }
+  }
+ },
+ "source_name": "Расписание с 01.10.2026.pdf",
+ "source_modified": "2026-09-30T09:08:09+00:00"
+}

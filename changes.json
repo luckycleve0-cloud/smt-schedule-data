@@ -1,0 +1,97 @@
+{
+ "generated_at": "2026-10-02T20:10:49",
+ "sets": [
+  {
+   "day_title": "суббота",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 2,
+     "group": "356-ТМ",
+     "subject": "МДК 04.03",
+     "teacher": null,
+     "room": "А 4-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "356-ТМ-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "301-КСЭЗ",
+     "subject": "МДК 02.02",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "301-КАРХ",
+     "subject": "МДК 01.03",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "337-ТО",
+     "subject": "Метрология",
+     "teacher": "Дракова",
+     "room": "А 3-06",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "337-ТО-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "337-ТО",
+     "subject": "Метрология",
+     "teacher": "Дракова",
+     "room": "А 3-06",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "337-ТО-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "202-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "202-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    }
+   ],
+   "date": "2026-10-03",
+   "source": "Изменения суббота.docx"
+  }
+ ]
+}
