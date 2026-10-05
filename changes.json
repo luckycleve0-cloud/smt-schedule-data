@@ -1,10 +1,46 @@
 {
- "generated_at": "2026-10-03T13:06:29",
+ "generated_at": "2026-10-06T02:07:09",
  "sets": [
   {
-   "day_title": "суббота",
-   "week_type": "числитель",
+   "day_title": null,
+   "week_type": null,
    "items": [
+    {
+     "tape": 1,
+     "group": "238-ТО",
+     "subject": "МДК 01.01",
+     "teacher": "Попова",
+     "room": "А 3-06",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "238-ТО-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "436-ТО",
+     "subject": "МДК 03.02",
+     "teacher": "Петрова",
+     "room": "А 3-06",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "436-ТО-23"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "238-ТО",
+     "subject": "Технологическое оборудование Войнов",
+     "teacher": null,
+     "room": "А 3-06",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "238-ТО-25"
+     ]
+    },
     {
      "tape": 2,
      "group": "356-ТМ",
@@ -19,79 +55,103 @@
     },
     {
      "tape": 1,
-     "group": "301-КСЭЗ",
-     "subject": "МДК 02.02",
+     "group": "301-КИСП",
+     "subject": "МДК 01.01",
      "teacher": null,
      "room": null,
      "remote": true,
      "cancelled": false,
      "groups": [
-      "301-КСЭЗ-24"
+      "301-КИСП-24"
      ]
     },
     {
      "tape": 2,
-     "group": "301-КАРХ",
-     "subject": "МДК 01.03",
+     "group": "301-КИСП",
+     "subject": "МДК 01.01",
      "teacher": null,
      "room": null,
      "remote": true,
+     "cancelled": false,
+     "groups": [
+      "301-КИСП-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "202-ИМС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-ИМС-25"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "202-ИМС",
+     "subject": "Иностранный язык",
+     "teacher": null,
+     "room": "Б 1-02",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-ИМС-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "301-КИМС",
+     "subject": "Иностранный язык",
+     "teacher": null,
+     "room": "Б 2-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КИМС-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "202-КИСП",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-КИСП-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "202-КИСП",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-КИСП-25"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "301-КАРХ",
+     "subject": "История архитектуры",
+     "teacher": null,
+     "room": "Б 3-03",
+     "remote": false,
      "cancelled": false,
      "groups": [
       "301-КАРХ-24"
      ]
-    },
-    {
-     "tape": 1,
-     "group": "337-ТО",
-     "subject": "Метрология",
-     "teacher": "Дракова",
-     "room": "А 3-06",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "337-ТО-24"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "337-ТО",
-     "subject": "Метрология",
-     "teacher": "Дракова",
-     "room": "А 3-06",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "337-ТО-24"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "202-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "202-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "202-КАРХ-25"
-     ]
     }
    ],
-   "date": "2026-10-03",
-   "source": "Изменения суббота.docx"
+   "date": "2026-10-06",
+   "source": "Изменения вторник.docx"
   }
  ]
 }
