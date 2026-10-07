@@ -1,14 +1,26 @@
 {
- "generated_at": "2026-10-06T17:07:08",
+ "generated_at": "2026-10-07T16:07:10",
  "sets": [
   {
-   "day_title": "среда",
+   "day_title": "четверг",
    "week_type": "знаменатель",
    "items": [
     {
      "tape": null,
+     "group": "356-ТМ",
+     "subject": "Физкультура",
+     "teacher": null,
+     "room": "А",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "356-ТМ-24"
+     ]
+    },
+    {
+     "tape": 1,
      "group": "301-КИМС",
-     "subject": "МДК 02.02",
+     "subject": "Проектирование многоэтажных зданий",
      "teacher": null,
      "room": null,
      "remote": true,
@@ -20,7 +32,19 @@
     {
      "tape": null,
      "group": "301-КИМС",
-     "subject": "МДК 02.02",
+     "subject": "МДК 03.01",
+     "teacher": null,
+     "room": "Б 4-05",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КИМС-24"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "301-КИМС",
+     "subject": "МДК 03.03",
      "teacher": null,
      "room": null,
      "remote": true,
@@ -30,7 +54,55 @@
      ]
     },
     {
+     "tape": 2,
+     "group": "202-ИМС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-ИМС-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "161-ТМ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "161-ТМ-26"
+     ]
+    },
+    {
      "tape": 1,
+     "group": "301-КАРХ",
+     "subject": "Физкультура",
+     "teacher": null,
+     "room": "А",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "202-КАРХ",
+     "subject": "Техническая механика",
+     "teacher": null,
+     "room": "А 1-11",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": null,
      "group": "202-КАРХ",
      "subject": null,
      "teacher": null,
@@ -42,56 +114,32 @@
      ]
     },
     {
-     "tape": 2,
-     "group": "202-КИСП",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "202-КИСП-25"
-     ]
-    },
-    {
      "tape": 1,
-     "group": "207-ПК",
-     "subject": "История",
+     "group": "110-ОНС",
+     "subject": "Литература",
      "teacher": null,
-     "room": "А 1-12",
+     "room": "Б 3-02",
      "remote": false,
      "cancelled": false,
      "groups": [
-      "207-ПК-25"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "208-КПК",
-     "subject": "МДК 07.01",
-     "teacher": null,
-     "room": "Б Л-2",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "208-КПК-25"
+      "110-ОНС-26"
      ]
     },
     {
      "tape": null,
-     "group": "301-КАРХ",
+     "group": "110-ОНС",
      "subject": null,
      "teacher": null,
      "room": null,
      "remote": false,
      "cancelled": true,
      "groups": [
-      "301-КАРХ-24"
+      "110-ОНС-26"
      ]
     }
    ],
-   "date": "2026-10-07",
-   "source": "Изменения среда.docx"
+   "date": "2026-10-08",
+   "source": "Изменения четверг.docx"
   }
  ]
 }
