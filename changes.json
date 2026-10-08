@@ -1,20 +1,56 @@
 {
- "generated_at": "2026-10-08T09:07:08",
+ "generated_at": "2026-10-08T19:07:15",
  "sets": [
   {
-   "day_title": "четверг",
+   "day_title": "пятница",
    "week_type": "знаменатель",
    "items": [
     {
-     "tape": null,
-     "group": "356-ТМ",
-     "subject": "Физкультура",
+     "tape": 2,
+     "group": "301-КСЭЗ",
+     "subject": "Логистика",
      "teacher": null,
-     "room": "А",
+     "room": "Б 2-06",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "356-ТМ",
+     "subject": "ПФИ",
+     "teacher": null,
+     "room": "А 3-06",
      "remote": false,
      "cancelled": false,
      "groups": [
       "356-ТМ-24"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "356-ТМ",
+     "subject": "МДК 06.02",
+     "teacher": null,
+     "room": "А 4-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "356-ТМ-24"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "209-ОНС",
+     "subject": "Допуски и тех.измерения",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "209-ОНС-25"
      ]
     },
     {
@@ -30,7 +66,7 @@
      ]
     },
     {
-     "tape": null,
+     "tape": 2,
      "group": "301-КИМС",
      "subject": "МДК 03.01",
      "teacher": null,
@@ -46,15 +82,27 @@
      "group": "301-КИМС",
      "subject": "МДК 03.03",
      "teacher": null,
-     "room": null,
-     "remote": true,
+     "room": "Б 4-05",
+     "remote": false,
      "cancelled": false,
      "groups": [
       "301-КИМС-24"
      ]
     },
     {
-     "tape": 2,
+     "tape": null,
+     "group": "455-ТМ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "455-ТМ-23"
+     ]
+    },
+    {
+     "tape": 1,
      "group": "202-ИМС",
      "subject": null,
      "teacher": null,
@@ -66,104 +114,56 @@
      ]
     },
     {
-     "tape": 2,
-     "group": "161-ТМ",
+     "tape": null,
+     "group": "207-ПК",
      "subject": null,
      "teacher": null,
      "room": null,
      "remote": false,
      "cancelled": true,
      "groups": [
-      "161-ТМ-26"
+      "207-ПК-25"
      ]
     },
     {
      "tape": 1,
-     "group": "301-КАРХ",
-     "subject": "Физкультура",
+     "group": "202-КАРХ",
+     "subject": "Основы строительного производства",
      "teacher": null,
-     "room": "А",
+     "room": "А 1-02",
      "remote": false,
      "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "202-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "301-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
      "groups": [
       "301-КАРХ-24"
      ]
-    },
-    {
-     "tape": null,
-     "group": "202-КАРХ",
-     "subject": "Техническая механика",
-     "teacher": null,
-     "room": "А 1-11",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": null,
-     "group": "202-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "110-ОНС",
-     "subject": "Литература",
-     "teacher": null,
-     "room": "Б 3-02",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "110-ОНС-26"
-     ]
-    },
-    {
-     "tape": null,
-     "group": "110-ОНС",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "110-ОНС-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "207-ПК",
-     "subject": "МДК 01.01",
-     "teacher": null,
-     "room": "Б Л-1",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "207-ПК-25"
-     ]
-    },
-    {
-     "tape": null,
-     "group": "207-ПК",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "207-ПК-25"
-     ]
     }
    ],
-   "date": "2026-10-08",
-   "source": "Изменения четверг.docx"
+   "date": "2026-10-09",
+   "source": "Изменения пятница.docx"
   }
  ]
 }
