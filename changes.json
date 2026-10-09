@@ -1,62 +1,26 @@
 {
- "generated_at": "2026-10-08T19:07:15",
+ "generated_at": "2026-10-09T17:07:09",
  "sets": [
   {
-   "day_title": "пятница",
+   "day_title": "суббота",
    "week_type": "знаменатель",
    "items": [
     {
      "tape": 2,
-     "group": "301-КСЭЗ",
-     "subject": "Логистика",
-     "teacher": null,
-     "room": "Б 2-06",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "301-КСЭЗ-24"
-     ]
-    },
-    {
-     "tape": 1,
      "group": "356-ТМ",
-     "subject": "ПФИ",
-     "teacher": null,
-     "room": "А 3-06",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "356-ТМ-24"
-     ]
-    },
-    {
-     "tape": null,
-     "group": "356-ТМ",
-     "subject": "МДК 06.02",
-     "teacher": null,
-     "room": "А 4-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "356-ТМ-24"
-     ]
-    },
-    {
-     "tape": null,
-     "group": "209-ОНС",
-     "subject": "Допуски и тех.измерения",
+     "subject": "Физкультура",
      "teacher": null,
      "room": null,
      "remote": true,
      "cancelled": false,
      "groups": [
-      "209-ОНС-25"
+      "356-ТМ-24"
      ]
     },
     {
      "tape": 1,
      "group": "301-КИМС",
-     "subject": "Проектирование многоэтажных зданий",
+     "subject": "МДК 03.02",
      "teacher": null,
      "room": null,
      "remote": true,
@@ -68,61 +32,37 @@
     {
      "tape": 2,
      "group": "301-КИМС",
-     "subject": "МДК 03.01",
-     "teacher": null,
-     "room": "Б 4-05",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "301-КИМС-24"
-     ]
-    },
-    {
-     "tape": null,
-     "group": "301-КИМС",
-     "subject": "МДК 03.03",
-     "teacher": null,
-     "room": "Б 4-05",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "301-КИМС-24"
-     ]
-    },
-    {
-     "tape": null,
-     "group": "455-ТМ",
-     "subject": null,
+     "subject": "МДК 03.02",
      "teacher": null,
      "room": null,
-     "remote": false,
-     "cancelled": true,
+     "remote": true,
+     "cancelled": false,
      "groups": [
-      "455-ТМ-23"
+      "301-КИМС-24"
      ]
     },
     {
      "tape": 1,
-     "group": "202-ИМС",
-     "subject": null,
+     "group": "208-КПК",
+     "subject": "Организация хранения",
      "teacher": null,
-     "room": null,
+     "room": "Б Л-1",
      "remote": false,
-     "cancelled": true,
+     "cancelled": false,
      "groups": [
-      "202-ИМС-25"
+      "208-КПК-25"
      ]
     },
     {
-     "tape": null,
-     "group": "207-ПК",
+     "tape": 2,
+     "group": "208-КПК",
      "subject": null,
      "teacher": null,
      "room": null,
      "remote": false,
      "cancelled": true,
      "groups": [
-      "207-ПК-25"
+      "208-КПК-25"
      ]
     },
     {
@@ -130,8 +70,8 @@
      "group": "202-КАРХ",
      "subject": "Основы строительного производства",
      "teacher": null,
-     "room": "А 1-02",
-     "remote": false,
+     "room": null,
+     "remote": true,
      "cancelled": false,
      "groups": [
       "202-КАРХ-25"
@@ -140,30 +80,18 @@
     {
      "tape": 2,
      "group": "202-КАРХ",
-     "subject": null,
+     "subject": "Основы строительного производства",
      "teacher": null,
      "room": null,
-     "remote": false,
-     "cancelled": true,
+     "remote": true,
+     "cancelled": false,
      "groups": [
       "202-КАРХ-25"
      ]
-    },
-    {
-     "tape": null,
-     "group": "301-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "301-КАРХ-24"
-     ]
     }
    ],
-   "date": "2026-10-09",
-   "source": "Изменения пятница.docx"
+   "date": "2026-10-10",
+   "source": "Изменения суббота.docx"
   }
  ]
 }
