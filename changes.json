@@ -1,60 +1,96 @@
 {
- "generated_at": "2026-10-09T17:07:09",
+ "generated_at": "2026-10-11T19:07:16",
  "sets": [
   {
-   "day_title": "суббота",
-   "week_type": "знаменатель",
+   "day_title": "понедельник",
+   "week_type": "числитель",
    "items": [
     {
      "tape": 2,
-     "group": "356-ТМ",
-     "subject": "Физкультура",
+     "group": "229-СВ",
+     "subject": "Основы инженерной графики Вся группа у Волосатовой",
      "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "356-ТМ-24"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "301-КИМС",
-     "subject": "МДК 03.02",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "301-КИМС-24"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "301-КИМС",
-     "subject": "МДК 03.02",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "301-КИМС-24"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "208-КПК",
-     "subject": "Организация хранения",
-     "teacher": null,
-     "room": "Б Л-1",
+     "room": "А 2-08",
      "remote": false,
      "cancelled": false,
      "groups": [
-      "208-КПК-25"
+      "229-СВ-25"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "209-ОНС",
+     "subject": "Техническое черчение Вся группа у Волосатовой",
+     "teacher": null,
+     "room": "А 2-08",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "209-ОНС-25"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "202-КСЭЗ",
+     "subject": "Техническая механика",
+     "teacher": null,
+     "room": "А 1-11",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КСЭЗ-25"
      ]
     },
     {
      "tape": 2,
+     "group": "301-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "202-КАРХ",
+     "subject": "История России",
+     "teacher": null,
+     "room": "Б 4-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": null,
+     "group": "202-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "207-ПК",
+     "subject": "ПОПД",
+     "teacher": null,
+     "room": "А 4-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "207-ПК-25"
+     ]
+    },
+    {
+     "tape": null,
      "group": "208-КПК",
      "subject": null,
      "teacher": null,
@@ -66,32 +102,20 @@
      ]
     },
     {
-     "tape": 1,
-     "group": "202-КАРХ",
-     "subject": "Основы строительного производства",
+     "tape": null,
+     "group": "306-КПК",
+     "subject": "МДК 07.01",
      "teacher": null,
-     "room": null,
-     "remote": true,
+     "room": "Б Л-2",
+     "remote": false,
      "cancelled": false,
      "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "202-КАРХ",
-     "subject": "Основы строительного производства",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "202-КАРХ-25"
+      "306-КПК-24"
      ]
     }
    ],
-   "date": "2026-10-10",
-   "source": "Изменения суббота.docx"
+   "date": "2026-10-12",
+   "source": "Изменения понедельник.docx"
   }
  ]
 }
