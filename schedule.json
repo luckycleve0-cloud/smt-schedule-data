@@ -1,6 +1,6 @@
 {
  "effective_from": "01.10.2026",
- "parsed_at": "2026-10-12T17:07:11",
+ "parsed_at": "2026-10-26T14:36:22",
  "groups": {
   "160-ТМ-26": {
    "ПОНЕДЕЛЬНИК": {
@@ -4317,7 +4317,7 @@
     "3": [
      {
       "subject": "МДК 03.02",
-      "room": "А 3-01",
+      "room": "А 3-09",
       "teacher": "Денисова",
       "parse_ok": true
      }
@@ -5471,7 +5471,7 @@
     "3": [
      {
       "subject": "МДК 02.01",
-      "room": "А 2-08",
+      "room": "А 4-09",
       "teacher": "Шкурапекина",
       "parse_ok": true
      }
@@ -6165,7 +6165,7 @@
     "2": [
      {
       "subject": "Основы философии",
-      "room": "А 1-04",
+      "room": "А 1-02",
       "teacher": "Карпухно",
       "parse_ok": true
      }
@@ -6183,7 +6183,7 @@
     "1": [
      {
       "subject": "Основы философии",
-      "room": "А 3-05",
+      "room": "А 1-02",
       "teacher": "Карпухно",
       "parse_ok": true
      }
@@ -6777,6 +6777,7 @@
    }
   }
  },
- "source_name": "Расписание с 01.10.2026.pdf",
- "source_modified": "2026-09-30T09:08:09+00:00"
+ "source_name": "raspisanie_s_01.10.2026.pdf",
+ "source_url": "https://www.satehm.ru/userfiles/ufiles/studentam/raspisanie_s_01.10.2026.pdf",
+ "source": "site"
 }
