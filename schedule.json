@@ -1,6 +1,6 @@
 {
  "effective_from": "01.10.2026",
- "parsed_at": "2026-10-26T14:36:22",
+ "parsed_at": "2026-10-26T14:38:41",
  "groups": {
   "160-ТМ-26": {
    "ПОНЕДЕЛЬНИК": {
@@ -6779,5 +6779,6 @@
  },
  "source_name": "raspisanie_s_01.10.2026.pdf",
  "source_url": "https://www.satehm.ru/userfiles/ufiles/studentam/raspisanie_s_01.10.2026.pdf",
- "source": "site"
+ "source": "site",
+ "source_modified": "2026-10-13T04:54:14+00:00"
 }
