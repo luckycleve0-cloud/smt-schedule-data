@@ -1,4 +1,121 @@
 {
- "generated_at": "2026-10-12T17:07:11",
- "sets": []
+ "generated_at": "2026-10-26T14:36:23",
+ "sets": [
+  {
+   "date": "2026-10-26",
+   "day_title": "понедельник",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 2,
+     "group": "103-КСЭЗ",
+     "subject": "Литература",
+     "teacher": null,
+     "room": "Б 2-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "103-КСЭЗ-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "103-ИМС",
+     "subject": "Литература",
+     "teacher": null,
+     "room": "Б 1-09",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "103-ИМС-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "103-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-КАРХ-26"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "301-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "202-КАРХ",
+     "subject": "История России",
+     "teacher": null,
+     "room": "Б 4-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "202-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "306-КПК",
+     "subject": "МДК 02.01",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "306-КПК-24"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "405-КПК",
+     "subject": "МДК 04.01",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "405-КПК-23"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "405-КПК",
+     "subject": "МДК 04.01",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "405-КПК-23"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_ponedelnik_26.10.2026.pdf"
+  }
+ ]
 }
