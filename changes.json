@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T14:38:42",
+ "generated_at": "2026-10-26T17:07:21",
  "sets": [
   {
    "date": "2026-10-26",
@@ -116,6 +116,98 @@
     }
    ],
    "source": "site: izmeneniya_ponedelnik_26.10.2026.pdf"
+  },
+  {
+   "date": "2026-10-27",
+   "day_title": "вторник",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 3,
+     "group": "150-КЭП",
+     "subject": "Математика",
+     "teacher": null,
+     "room": "Б 2-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "150-КЭП-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "202-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "202-КИСП",
+     "subject": "МДК 01.04",
+     "teacher": null,
+     "room": "Б 4-06",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КИСП-25"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "202-КИСП",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-КИСП-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "130-СВ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "130-СВ-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "131-КСВ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "131-КСВ-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "301-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    }
+   ],
+   "source": "yandex: Изменения вторник.docx"
   }
  ]
 }
