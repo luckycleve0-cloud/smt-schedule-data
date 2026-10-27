@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T20:07:22",
+ "generated_at": "2026-10-27T18:07:11",
  "sets": [
   {
    "date": "2026-10-26",
@@ -208,6 +208,132 @@
     }
    ],
    "source": "yandex: Изменения вторник.docx"
+  },
+  {
+   "date": "2026-10-28",
+   "day_title": "среда",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 3,
+     "group": "202-ИМС",
+     "subject": "Физкультура",
+     "teacher": "Левина",
+     "room": "А",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-ИМС-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "108-КДП",
+     "subject": "Русский язык",
+     "teacher": null,
+     "room": "Б 1-02",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "108-КДП-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "110-ОНС",
+     "subject": "Основы безопасности и защиты Родины",
+     "teacher": null,
+     "room": "Б 1-07",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "110-ОНС-26"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "259-ТМ",
+     "subject": "МДК 02.01",
+     "teacher": null,
+     "room": "М-10",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "259-ТМ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.01",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "130-СВ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "130-СВ-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "131-КСВ",
+     "subject": "Математика",
+     "teacher": null,
+     "room": "Б 3-05",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "131-КСВ-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "101-КТ-ЭС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": []
+    },
+    {
+     "tape": 1,
+     "group": "103-ИМС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-ИМС-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "337-ТО",
+     "subject": "История России",
+     "teacher": null,
+     "room": "А 1-04",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "337-ТО-24"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_sreda_28.10.pdf"
   }
  ]
 }
