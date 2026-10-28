@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T18:07:11",
+ "generated_at": "2026-10-28T18:07:17",
  "sets": [
   {
    "date": "2026-10-26",
@@ -334,6 +334,170 @@
     }
    ],
    "source": "site: izmeneniya_sreda_28.10.pdf"
+  },
+  {
+   "date": "2026-10-29",
+   "day_title": "четверг",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "301-КСЭЗ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "301-КСЭЗ",
+     "subject": "МДК 02.01",
+     "teacher": null,
+     "room": "А 3-05",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "301-КСЭЗ",
+     "subject": "Логистика",
+     "teacher": null,
+     "room": "Б 3-04",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "301-КСЭЗ",
+     "subject": "Логистика",
+     "teacher": null,
+     "room": "Б 3-04",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "108-КДП",
+     "subject": "История",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "108-КДП-26"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "337-ТО",
+     "subject": "Технология отрасли",
+     "teacher": null,
+     "room": "Б 1-02",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "337-ТО-24"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "337-ТО",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "337-ТО-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.01",
+     "teacher": null,
+     "room": "А 3-09",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "103-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-КАРХ-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "103-КАРХ",
+     "subject": "История",
+     "teacher": null,
+     "room": "Б 4-03",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "103-КАРХ-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "109-ПК",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "109-ПК-26"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "101-КТЭС",
+     "subject": "Иностранный язык",
+     "teacher": null,
+     "room": "Б 3-05",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "101-КТЭС-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "160-ТМ",
+     "subject": "История",
+     "teacher": null,
+     "room": "Б 4-03",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "160-ТМ-26"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_chetverg_29.10.pdf"
   }
  ]
 }
