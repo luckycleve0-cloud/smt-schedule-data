@@ -1,122 +1,6 @@
 {
- "generated_at": "2026-10-28T18:07:17",
+ "generated_at": "2026-10-29T21:16:03",
  "sets": [
-  {
-   "date": "2026-10-26",
-   "day_title": "понедельник",
-   "week_type": "числитель",
-   "items": [
-    {
-     "tape": 2,
-     "group": "103-КСЭЗ",
-     "subject": "Литература",
-     "teacher": null,
-     "room": "Б 2-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "103-КСЭЗ-26"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "103-ИМС",
-     "subject": "Литература",
-     "teacher": null,
-     "room": "Б 1-09",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "103-ИМС-26"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "103-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "103-КАРХ-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "301-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "301-КАРХ-24"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "202-КАРХ",
-     "subject": "История России",
-     "teacher": null,
-     "room": "Б 4-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "202-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "306-КПК",
-     "subject": "МДК 02.01",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "306-КПК-24"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "405-КПК",
-     "subject": "МДК 04.01",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "405-КПК-23"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "405-КПК",
-     "subject": "МДК 04.01",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "405-КПК-23"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_ponedelnik_26.10.2026.pdf"
-  },
   {
    "date": "2026-10-27",
    "day_title": "вторник",
@@ -498,6 +382,192 @@
     }
    ],
    "source": "site: izmeneniya_chetverg_29.10.pdf"
+  },
+  {
+   "date": "2026-10-30",
+   "day_title": "пятница",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "103-ИМС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-ИМС-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "103-ИМС",
+     "subject": "Физкультура",
+     "teacher": "Левина",
+     "room": "А",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "103-ИМС-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "103-ИМС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-ИМС-26"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "101-КТ-ЭС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": []
+    },
+    {
+     "tape": 2,
+     "group": "103-КАРХ",
+     "subject": "Физкультура",
+     "teacher": "Михалева",
+     "room": "Б С-1",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "103-КАРХ-26"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "103-РАП",
+     "subject": "Иностранный язык",
+     "teacher": null,
+     "room": "Б 1-02",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "103-РАП-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "103-РАП",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-РАП-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "139-ТО",
+     "subject": "Физика",
+     "teacher": null,
+     "room": "А 4-05",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "139-ТО-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "139-ТО",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "139-ТО-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "337-ТО",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "337-ТО-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "301-КСЭЗ",
+     "subject": "Логистика",
+     "teacher": null,
+     "room": "Б 2-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "202-ИМС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-ИМС-25"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "110-ОНС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "110-ОНС-26"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "405-КПК",
+     "subject": "МДК 06.01",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "405-КПК-23"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "436-ТО",
+     "subject": "Экономика отрасли",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "436-ТО-23"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_pyatnitsa_30.10.2026.pdf"
   }
  ]
 }
