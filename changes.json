@@ -1,98 +1,6 @@
 {
- "generated_at": "2026-11-02T19:07:09",
+ "generated_at": "2026-11-04T19:07:09",
  "sets": [
-  {
-   "date": "2026-10-31",
-   "day_title": "суббота",
-   "week_type": "числитель",
-   "items": [
-    {
-     "tape": 1,
-     "group": "103-РАП",
-     "subject": "Физкультура",
-     "teacher": "Михалева",
-     "room": "Б С-1",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "103-РАП-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "139-ТО",
-     "subject": "Физкультура",
-     "teacher": "Левина",
-     "room": "А",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "139-ТО-26"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "161-ТМ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "161-ТМ-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "202-ИМС",
-     "subject": "МДК 01.03",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "202-ИМС-25"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "101-КТЭС",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "101-КТЭС-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "103-ИМС",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "103-ИМС-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "301-КАРХ",
-     "subject": "МДК 01.03",
-     "teacher": null,
-     "room": "А 3-05",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "301-КАРХ-24"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_subbota_31.10.pdf"
-  },
   {
    "date": "2026-11-02",
    "day_title": "понедельник",
@@ -432,6 +340,146 @@
     }
    ],
    "source": "site: izmeneniya_vtornik_03.11.pdf"
+  },
+  {
+   "date": "2026-11-05",
+   "day_title": "четверг",
+   "week_type": "знаменатель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "238-ТО",
+     "subject": "Материаловедение",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "238-ТО-25"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "455-ТМ",
+     "subject": "ИТПД",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "455-ТМ-23"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.01",
+     "teacher": null,
+     "room": "А 3-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "103-РАП",
+     "subject": "Химия",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "103-РАП-26"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "337-ТО",
+     "subject": "Технология отрасли",
+     "teacher": null,
+     "room": "Б 1-02",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "337-ТО-24"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "301-КАРХ",
+     "subject": "МДК 01.01",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "301-КАРХ",
+     "subject": "Типология зданий",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "110-ОНС",
+     "subject": "Введение в специальность",
+     "teacher": null,
+     "room": "А М-8",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "110-ОНС-26"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "101-КТЭС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "101-КТЭС-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "103-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-КАРХ-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "202-РАП",
+     "subject": "Материаловедение",
+     "teacher": null,
+     "room": "А 2-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-РАП-25"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_chetverg_05.11.pdf"
   }
  ]
 }
