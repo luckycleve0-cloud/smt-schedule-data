@@ -1,346 +1,6 @@
 {
- "generated_at": "2026-11-04T19:07:09",
+ "generated_at": "2026-11-06T19:07:12",
  "sets": [
-  {
-   "date": "2026-11-02",
-   "day_title": "понедельник",
-   "week_type": "знаменатель",
-   "items": [
-    {
-     "tape": 2,
-     "group": "110-ОНС",
-     "subject": "Физкультура",
-     "teacher": "Левина",
-     "room": "А",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "110-ОНС-26"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "130-СВ",
-     "subject": "Физкультура",
-     "teacher": "Левина",
-     "room": "А",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "130-СВ-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "103-КСЭЗ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "103-КСЭЗ-26"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "103-ИМС",
-     "subject": "Обществознание",
-     "teacher": null,
-     "room": "Б 4-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "103-ИМС-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "337-ТО",
-     "subject": "Технология отрасли",
-     "teacher": null,
-     "room": "Б Л-1",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "337-ТО-24"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "337-ТО",
-     "subject": "Технология отрасли",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "337-ТО-24"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "103-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "103-КАРХ-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "301-КСЭЗ",
-     "subject": "Логистика",
-     "teacher": null,
-     "room": "А 2-04",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "301-КСЭЗ-24"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "103-КАРХ",
-     "subject": "Математика",
-     "teacher": null,
-     "room": "А 1-02",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "103-КАРХ-26"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "139-ТО",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "139-ТО-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "208-КПК",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "208-КПК-25"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "207-ПК",
-     "subject": "История",
-     "teacher": null,
-     "room": "А 1-04",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "207-ПК-25"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_ponedelnik_02.11.2026.pdf"
-  },
-  {
-   "date": "2026-11-03",
-   "day_title": "вторник",
-   "week_type": "знаменатель",
-   "items": [
-    {
-     "tape": 3,
-     "group": "150-КЭП",
-     "subject": "Математика",
-     "teacher": null,
-     "room": "Б 2-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "150-КЭП-26"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "101-КТЭС",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "101-КТЭС-26"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "101-КТЭС",
-     "subject": "Физкультура",
-     "teacher": "Левина",
-     "room": "А",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "101-КТЭС-26"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "109-ПК",
-     "subject": "Химия",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "109-ПК-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "109-ПК",
-     "subject": "Физкультура",
-     "teacher": "Левина",
-     "room": "А",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "109-ПК-26"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "337-ТО",
-     "subject": "Технология отрасли",
-     "teacher": null,
-     "room": "Б 1-07",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "337-ТО-24"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "238-ТО",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "238-ТО-25"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "238-ТО",
-     "subject": "Обработка металлов",
-     "teacher": null,
-     "room": "Б 1-07",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "238-ТО-25"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "436-ТО",
-     "subject": "Охрана труда",
-     "teacher": null,
-     "room": "А 3-06",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "436-ТО-23"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "337-ТО",
-     "subject": "Компьютерная графика",
-     "teacher": "Князева",
-     "room": "А 3-09",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "337-ТО-24"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "103-КСЭЗ",
-     "subject": "Физика",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "103-КСЭЗ-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "130-СВ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "130-СВ-26"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "131-КСВ",
-     "subject": "Иностранный язык",
-     "teacher": null,
-     "room": "Б 1-02",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "131-КСВ-26"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "131-КСВ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "131-КСВ-26"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "249-КЭП",
-     "subject": "ДОУ",
-     "teacher": null,
-     "room": "А 2-03",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "249-КЭП-25"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_vtornik_03.11.pdf"
-  },
   {
    "date": "2026-11-05",
    "day_title": "четверг",
@@ -480,6 +140,110 @@
     }
    ],
    "source": "site: izmeneniya_chetverg_05.11.pdf"
+  },
+  {
+   "date": "2026-11-07",
+   "day_title": "суббота",
+   "week_type": "знаменатель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "101-КТЭС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "101-КТЭС-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "101-КТЭС",
+     "subject": "Обществознание",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "101-КТЭС-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "436-ТО",
+     "subject": "МДК 03.02",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "436-ТО-23"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "337-ТО",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "337-ТО-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "103-ИМС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-ИМС-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "103-ИМС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-ИМС-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "249-КЭП",
+     "subject": "Иностранный язык",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "249-КЭП-25"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "130-СВ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "130-СВ-26"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_subbota_07.11.pdf"
   }
  ]
 }
