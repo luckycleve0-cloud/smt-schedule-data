@@ -20,6 +20,18 @@ import sys
 import time
 import urllib.parse
 import urllib.request
+import socket
+
+# На GitHub Actions (US) у сайта может выбираться IPv6-маршрут,
+# которого нет у runner'а: Errno 101. Принудительно идём по IPv4.
+_ORIGINAL_GETADDRINFO = socket.getaddrinfo
+
+
+def _getaddrinfo_ipv4(host, port, family=0, type=0, proto=0, flags=0):
+    return _ORIGINAL_GETADDRINFO(host, port, socket.AF_INET, type, proto, flags)
+
+
+socket.getaddrinfo = _getaddrinfo_ipv4
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
 from typing import Any
@@ -473,3 +485,4 @@ if __name__ == "__main__":
     except Exception as exc:  # noqa: BLE001
         log(f"FATAL: {exc}")
         raise
+
