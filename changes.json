@@ -1,146 +1,6 @@
 {
- "generated_at": "2026-11-06T19:07:12",
+ "generated_at": "2026-11-08T19:07:11",
  "sets": [
-  {
-   "date": "2026-11-05",
-   "day_title": "четверг",
-   "week_type": "знаменатель",
-   "items": [
-    {
-     "tape": 1,
-     "group": "238-ТО",
-     "subject": "Материаловедение",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "238-ТО-25"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "455-ТМ",
-     "subject": "ИТПД",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "455-ТМ-23"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "202-КАРХ",
-     "subject": "МДК 02.01",
-     "teacher": null,
-     "room": "А 3-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "103-РАП",
-     "subject": "Химия",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "103-РАП-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "337-ТО",
-     "subject": "Технология отрасли",
-     "teacher": null,
-     "room": "Б 1-02",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "337-ТО-24"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "301-КАРХ",
-     "subject": "МДК 01.01",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "301-КАРХ-24"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "301-КАРХ",
-     "subject": "Типология зданий",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "301-КАРХ-24"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "110-ОНС",
-     "subject": "Введение в специальность",
-     "teacher": null,
-     "room": "А М-8",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "110-ОНС-26"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "101-КТЭС",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "101-КТЭС-26"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "103-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "103-КАРХ-26"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "202-РАП",
-     "subject": "Материаловедение",
-     "teacher": null,
-     "room": "А 2-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-РАП-25"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_chetverg_05.11.pdf"
-  },
   {
    "date": "2026-11-07",
    "day_title": "суббота",
@@ -244,6 +104,74 @@
     }
    ],
    "source": "site: izmeneniya_subbota_07.11.pdf"
+  },
+  {
+   "date": "2026-11-09",
+   "day_title": "понедельник",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 3,
+     "group": "301-КСЭЗ",
+     "subject": "Логистика",
+     "teacher": null,
+     "room": "А 2-04",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "301-КСЭЗ",
+     "subject": "Логистика",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.01",
+     "teacher": null,
+     "room": "Б 4-06",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "103-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-КАРХ-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "202-КИСП",
+     "subject": "Перенос на вторник на 4 ленту",
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КИСП-25"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_ponedelnik_09.11.pdf"
   }
  ]
 }
