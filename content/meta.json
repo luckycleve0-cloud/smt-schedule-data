@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "updatedAt": "2026-11-08T21:23:59.184255+07:00",
+  "vkOk": false,
+  "siteOk": true,
+  "counts": {
+    "feed": 50,
+    "vk": 0,
+    "news": 50,
+    "session": 4,
+    "practice": 8,
+    "archive": 0
+  }
+}
