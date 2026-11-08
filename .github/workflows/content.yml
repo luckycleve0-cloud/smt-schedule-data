@@ -1,0 +1,52 @@
+name: content
+
+on:
+  schedule:
+    - cron: "5 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: content-update
+  cancel-in-progress: true
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Install dependencies
+        run: python -m pip install --disable-pip-version-check boto3
+
+      - name: Build content
+        env:
+          VK_TOKEN: ${{ secrets.VK_TOKEN }}
+          VK_GROUP_ID: ${{ secrets.VK_GROUP_ID }}
+          YC_KEY_ID: ${{ secrets.YC_KEY_ID }}
+          YC_SECRET: ${{ secrets.YC_SECRET }}
+          YC_BUCKET: ${{ secrets.YC_BUCKET }}
+        run: python content_parser.py
+
+      - name: Commit JSON
+        run: |
+          git config user.name "smt-eco-bot"
+          git config user.email "smt-eco-bot@users.noreply.github.com"
+          git add content
+          if git diff --cached --quiet; then
+            echo "content: no changes"
+            exit 0
+          fi
+          git commit -m "content: обновление афиши, новостей и сессии"
+          git push
