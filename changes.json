@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T19:07:11",
+ "generated_at": "2026-11-09T18:07:11",
  "sets": [
   {
    "date": "2026-11-07",
@@ -172,6 +172,86 @@
     }
    ],
    "source": "site: izmeneniya_ponedelnik_09.11.pdf"
+  },
+  {
+   "date": "2026-11-10",
+   "day_title": "вторник",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 3,
+     "group": "301-КСЭЗ",
+     "subject": "Физкультура",
+     "teacher": null,
+     "room": "А",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "301-КАРХ",
+     "subject": "МДК 01.01",
+     "teacher": null,
+     "room": "Б 3-03",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "130-СВ",
+     "subject": "Математика",
+     "teacher": null,
+     "room": "Б 3-05",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "130-СВ-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "130-СВ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "130-СВ-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "131-КСВ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "131-КСВ-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "103-ИМС",
+     "subject": "Литература Перенос со среды",
+     "teacher": null,
+     "room": "Б 1-09",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "103-ИМС-26"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_vtornik_10.11.pdf"
   }
  ]
 }
