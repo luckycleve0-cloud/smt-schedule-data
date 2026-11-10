@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T16:07:11",
+ "generated_at": "2026-11-10T18:07:12",
  "sets": [
   {
    "date": "2026-11-09",
@@ -148,6 +148,110 @@
     }
    ],
    "source": "site: izmeneniya_vtornik_10.11.pdf"
+  },
+  {
+   "date": "2026-11-11",
+   "day_title": "среда",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "301-КАРХ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "301-КАРХ",
+     "subject": "МДК 01.01",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "301-КАРХ",
+     "subject": "МДК 01.01",
+     "teacher": null,
+     "room": "Б 1-09",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "301-КСЭЗ",
+     "subject": "Логистика",
+     "teacher": null,
+     "room": "Б 1-02",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "130-СВ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "130-СВ-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "131-КСВ",
+     "subject": "Индивидуальный проект",
+     "teacher": null,
+     "room": "Б 3-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "131-КСВ-26"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "101-КТЭС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "101-КТЭС-26"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "103-ИМС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-ИМС-26"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_sreda_11.11.pdf"
   }
  ]
 }
