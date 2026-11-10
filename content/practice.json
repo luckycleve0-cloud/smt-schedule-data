@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-10T16:36:14.803408+07:00",
+  "updatedAt": "2026-11-11T00:38:27.966264+07:00",
   "items": [
     {
       "id": "site-practice:ochnoe",
@@ -51,13 +51,13 @@
       "archived": false
     },
     {
-      "id": "site-practice:https://www.satehm.ru/userfiles/ufiles/studentam/izmeneniya_vtornik_10.11.pdf",
+      "id": "site-practice:https://www.satehm.ru/userfiles/ufiles/studentam/izmeneniya_sreda_11.11.pdf",
       "source": "site",
       "category": "practice",
       "title": "Замены в расписании",
       "text": "Материал сайта техникума.",
       "date": null,
-      "url": "https://www.satehm.ru/userfiles/ufiles/studentam/izmeneniya_vtornik_10.11.pdf",
+      "url": "https://www.satehm.ru/userfiles/ufiles/studentam/izmeneniya_sreda_11.11.pdf",
       "imageUrl": null,
       "images": [],
       "archived": false
