@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T18:07:12",
+ "generated_at": "2026-11-11T17:07:11",
  "sets": [
   {
    "date": "2026-11-09",
@@ -252,6 +252,98 @@
     }
    ],
    "source": "site: izmeneniya_sreda_11.11.pdf"
+  },
+  {
+   "date": "2026-11-12",
+   "day_title": "четверг",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "301-КСЭЗ",
+     "subject": "Физкультура",
+     "teacher": null,
+     "room": "А",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "301-КСЭЗ",
+     "subject": "Логистика",
+     "teacher": null,
+     "room": "А 2-07",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.01",
+     "teacher": null,
+     "room": "А 4-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.02",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "301-КАРХ",
+     "subject": "МДК 01.01",
+     "teacher": null,
+     "room": "А 4-09",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "101-КТЭС",
+     "subject": "Русский язык",
+     "teacher": null,
+     "room": "Б 1-02",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "101-КТЭС-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "103-КАРХ",
+     "subject": "Математика",
+     "teacher": null,
+     "room": "Б 3-04",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "103-КАРХ-26"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_chetverg_12.11.pdf"
   }
  ]
 }
