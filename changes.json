@@ -1,74 +1,6 @@
 {
- "generated_at": "2026-11-11T17:07:11",
+ "generated_at": "2026-11-12T20:07:10",
  "sets": [
-  {
-   "date": "2026-11-09",
-   "day_title": "понедельник",
-   "week_type": "числитель",
-   "items": [
-    {
-     "tape": 3,
-     "group": "301-КСЭЗ",
-     "subject": "Логистика",
-     "teacher": null,
-     "room": "А 2-04",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "301-КСЭЗ-24"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "301-КСЭЗ",
-     "subject": "Логистика",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "301-КСЭЗ-24"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "202-КАРХ",
-     "subject": "МДК 02.01",
-     "teacher": null,
-     "room": "Б 4-06",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "103-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "103-КАРХ-26"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "202-КИСП",
-     "subject": "Перенос на вторник на 4 ленту",
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-КИСП-25"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_ponedelnik_09.11.pdf"
-  },
   {
    "date": "2026-11-10",
    "day_title": "вторник",
@@ -344,6 +276,110 @@
     }
    ],
    "source": "site: izmeneniya_chetverg_12.11.pdf"
+  },
+  {
+   "date": "2026-11-13",
+   "day_title": "пятница",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "301-КАРХ",
+     "subject": "Переносится на 4 ленту",
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "301-КАРХ",
+     "subject": "Типология зданий",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "301-КАРХ",
+     "subject": "МДК 01.01",
+     "teacher": null,
+     "room": "Б 3-03",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "301-КСЭЗ",
+     "subject": "Логистика",
+     "teacher": null,
+     "room": "Б Л-04",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "301-КСЭЗ",
+     "subject": "Логистика",
+     "teacher": null,
+     "room": "Б Л-04",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "301-КСЭЗ-24"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "101-КТЭС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "101-КТЭС-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "103-ИМС",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-ИМС-26"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "405-КПК",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "405-КПК-23"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_pyatnitsa_13.11.pdf"
   }
  ]
 }
