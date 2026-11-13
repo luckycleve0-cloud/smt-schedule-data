@@ -1,86 +1,6 @@
 {
- "generated_at": "2026-11-12T20:07:10",
+ "generated_at": "2026-11-13T16:07:10",
  "sets": [
-  {
-   "date": "2026-11-10",
-   "day_title": "вторник",
-   "week_type": "числитель",
-   "items": [
-    {
-     "tape": 3,
-     "group": "301-КСЭЗ",
-     "subject": "Физкультура",
-     "teacher": null,
-     "room": "А",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "301-КСЭЗ-24"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "301-КАРХ",
-     "subject": "МДК 01.01",
-     "teacher": null,
-     "room": "Б 3-03",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "301-КАРХ-24"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "130-СВ",
-     "subject": "Математика",
-     "teacher": null,
-     "room": "Б 3-05",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "130-СВ-26"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "130-СВ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "130-СВ-26"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "131-КСВ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "131-КСВ-26"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "103-ИМС",
-     "subject": "Литература Перенос со среды",
-     "teacher": null,
-     "room": "Б 1-09",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "103-ИМС-26"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_vtornik_10.11.pdf"
-  },
   {
    "date": "2026-11-11",
    "day_title": "среда",
@@ -380,6 +300,26 @@
     }
    ],
    "source": "site: izmeneniya_pyatnitsa_13.11.pdf"
+  },
+  {
+   "date": "2026-11-14",
+   "day_title": "суббота",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "301-КАРХ",
+     "subject": "МДК 01.01",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "301-КАРХ-24"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_subbota_14.11.pdf"
   }
  ]
 }
