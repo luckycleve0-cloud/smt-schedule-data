@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T17:03:35.602816+07:00",
+  "updatedAt": "2026-11-14T23:37:01.994889+07:00",
   "items": [
     {
       "id": "site-session:demo",
@@ -10,42 +10,6 @@
       "text": "Материалы и рекомендации по демоэкзамену.",
       "date": null,
       "url": "https://www.satehm.ru/studentam/demonstratsionnyy-ekzamen/",
-      "imageUrl": null,
-      "images": [],
-      "archived": false
-    },
-    {
-      "id": "site-session:https://www.satehm.ru/profdemo/",
-      "source": "site",
-      "category": "session",
-      "title": "Профессионалитет для всех / Демоэкзамен",
-      "text": "Материал сайта техникума.",
-      "date": null,
-      "url": "https://www.satehm.ru/profdemo/",
-      "imageUrl": null,
-      "images": [],
-      "archived": false
-    },
-    {
-      "id": "site-session:https://www.satehm.ru/studentam/demonstratsionnyy-ekzamen/demonstratsionnyy-ekzamen-2026/",
-      "source": "site",
-      "category": "session",
-      "title": "Демонстрационный экзамен 2026",
-      "text": "Материал сайта техникума.",
-      "date": null,
-      "url": "https://www.satehm.ru/studentam/demonstratsionnyy-ekzamen/demonstratsionnyy-ekzamen-2026/",
-      "imageUrl": null,
-      "images": [],
-      "archived": false
-    },
-    {
-      "id": "site-session:https://www.satehm.ru/studentam/demonstratsionnyy-ekzamen/arkhiv-demoekzameny/",
-      "source": "site",
-      "category": "session",
-      "title": "Архив Демонстрационный экзамен",
-      "text": "Материал сайта техникума.",
-      "date": null,
-      "url": "https://www.satehm.ru/studentam/demonstratsionnyy-ekzamen/arkhiv-demoekzameny/",
       "imageUrl": null,
       "images": [],
       "archived": false
