@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-14T04:53:54.576910+07:00",
+  "updatedAt": "2026-11-14T09:16:33.036840+07:00",
   "items": [
     {
       "id": "site-practice:ochnoe",
@@ -10,78 +10,6 @@
       "text": "Официальное расписание и замены на сайте техникума.",
       "date": null,
       "url": "https://www.satehm.ru/studentam/ochnoe-otdelenie",
-      "imageUrl": null,
-      "images": [],
-      "archived": false
-    },
-    {
-      "id": "site-practice:https://www.satehm.ru/profdemo/",
-      "source": "site",
-      "category": "practice",
-      "title": "Профессионалитет для всех / Демоэкзамен",
-      "text": "Материал сайта техникума.",
-      "date": null,
-      "url": "https://www.satehm.ru/profdemo/",
-      "imageUrl": null,
-      "images": [],
-      "archived": false
-    },
-    {
-      "id": "site-practice:https://www.satehm.ru/userfiles/ufiles/studentam/raspisanie_s_14.11.2026.pdf",
-      "source": "site",
-      "category": "practice",
-      "title": "Расписание",
-      "text": "Материал сайта техникума.",
-      "date": null,
-      "url": "https://www.satehm.ru/userfiles/ufiles/studentam/raspisanie_s_14.11.2026.pdf",
-      "imageUrl": null,
-      "images": [],
-      "archived": false
-    },
-    {
-      "id": "site-practice:https://www.satehm.ru/userfiles/ufiles/studentam/izmeneniya_subbota_14.11.pdf",
-      "source": "site",
-      "category": "practice",
-      "title": "Замены в расписании",
-      "text": "Материал сайта техникума.",
-      "date": null,
-      "url": "https://www.satehm.ru/userfiles/ufiles/studentam/izmeneniya_subbota_14.11.pdf",
-      "imageUrl": null,
-      "images": [],
-      "archived": false
-    },
-    {
-      "id": "site-practice:https://max.ru/vuz_schedule_bot",
-      "source": "site",
-      "category": "practice",
-      "title": "Расписание в MAX",
-      "text": "Материал сайта техникума.",
-      "date": null,
-      "url": "https://max.ru/vuz_schedule_bot",
-      "imageUrl": null,
-      "images": [],
-      "archived": false
-    },
-    {
-      "id": "site-bells:https://www.satehm.ru/userfiles/ufiles/studentam/",
-      "source": "site",
-      "category": "practice",
-      "title": "Расписание звонков (pdf)",
-      "text": "Материал сайта техникума.",
-      "date": null,
-      "url": "https://www.satehm.ru/userfiles/ufiles/studentam/",
-      "imageUrl": null,
-      "images": [],
-      "archived": false
-    },
-    {
-      "id": "site-bells:https://www.satehm.ru/userfiles/images/",
-      "source": "site",
-      "category": "practice",
-      "title": "Расписание звонков (png)",
-      "text": "Материал сайта техникума.",
-      "date": null,
-      "url": "https://www.satehm.ru/userfiles/images/",
       "imageUrl": null,
       "images": [],
       "archived": false
