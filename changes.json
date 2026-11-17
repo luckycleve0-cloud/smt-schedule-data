@@ -1,26 +1,6 @@
 {
- "generated_at": "2026-11-16T19:34:08",
+ "generated_at": "2026-11-17T16:07:09",
  "sets": [
-  {
-   "date": "2026-11-14",
-   "day_title": "суббота",
-   "week_type": "числитель",
-   "items": [
-    {
-     "tape": 1,
-     "group": "301-КАРХ",
-     "subject": "МДК 01.01",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "301-КАРХ-24"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_subbota_14.11.pdf"
-  },
   {
    "date": "2026-11-16",
    "day_title": "понедельник",
@@ -120,6 +100,62 @@
     }
    ],
    "source": "site: izmeneniya_vtornik_17.11.pdf"
+  },
+  {
+   "date": "2026-11-18",
+   "day_title": "среда",
+   "week_type": "знаменатель",
+   "items": [
+    {
+     "tape": 3,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.02",
+     "teacher": null,
+     "room": "Б 1-07",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "405-КПК",
+     "subject": "МДК 06.01 Мартилова Е.А.",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "405-КПК-23"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "249-КЭП",
+     "subject": "Иностранный язык Кирикова О.С.",
+     "teacher": null,
+     "room": "Б 3-05",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "249-КЭП-25"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "249-КЭП",
+     "subject": "МДК 01.01",
+     "teacher": null,
+     "room": "А 2-04",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "249-КЭП-25"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_sreda_18.11.pdf"
   }
  ]
 }
