@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T16:07:09",
+ "generated_at": "2026-11-18T17:07:10",
  "sets": [
   {
    "date": "2026-11-16",
@@ -156,6 +156,74 @@
     }
    ],
    "source": "site: izmeneniya_sreda_18.11.pdf"
+  },
+  {
+   "date": "2026-11-19",
+   "day_title": "четверг",
+   "week_type": "знаменатель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.01",
+     "teacher": null,
+     "room": "А 2-03",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.02",
+     "teacher": null,
+     "room": "А 2-03",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "405-КПК",
+     "subject": "МДК 06.01",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "405-КПК-23"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "108-КДП",
+     "subject": "Физкультура",
+     "teacher": null,
+     "room": "А",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "108-КДП-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "202-КСЭЗ",
+     "subject": "Техническая механика",
+     "teacher": null,
+     "room": "А 1-11",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КСЭЗ-25"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_chetverg_19.11.pdf"
   }
  ]
 }
