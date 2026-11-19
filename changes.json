@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:07:12",
+ "generated_at": "2026-11-19T17:07:08",
  "sets": [
   {
    "date": "2026-11-17",
@@ -204,6 +204,62 @@
     }
    ],
    "source": "site: izmeneniya_chetverg_19.11.pdf"
+  },
+  {
+   "date": "2026-11-20",
+   "day_title": "пятница",
+   "week_type": "знаменатель",
+   "items": [
+    {
+     "tape": 2,
+     "group": "405-КПК",
+     "subject": "МДК 06.01",
+     "teacher": null,
+     "room": null,
+     "remote": true,
+     "cancelled": false,
+     "groups": [
+      "405-КПК-23"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "348-КЭП",
+     "subject": "МДК 06.01",
+     "teacher": null,
+     "room": "А 2-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "348-КЭП-24"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.02",
+     "teacher": null,
+     "room": "А 2-03",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "202-КАРХ",
+     "subject": "МДК 02.02",
+     "teacher": null,
+     "room": "А 2-03",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-КАРХ-25"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_pyatnitsa_20.11.pdf"
   }
  ]
 }
