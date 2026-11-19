@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T10:07:32.094594+07:00",
+  "updatedAt": "2026-11-19T17:57:57.386057+07:00",
   "items": [
     {
       "id": "site-session:demo",
@@ -11,6 +11,7 @@
       "date": null,
       "url": "https://www.satehm.ru/studentam/demonstratsionnyy-ekzamen/",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     },
@@ -23,6 +24,7 @@
       "date": null,
       "url": "https://www.satehm.ru/profdemo/",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     },
@@ -35,6 +37,7 @@
       "date": null,
       "url": "https://www.satehm.ru/studentam/demonstratsionnyy-ekzamen/demonstratsionnyy-ekzamen-2026/",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     },
@@ -47,6 +50,7 @@
       "date": null,
       "url": "https://www.satehm.ru/studentam/demonstratsionnyy-ekzamen/arkhiv-demoekzameny/",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     }

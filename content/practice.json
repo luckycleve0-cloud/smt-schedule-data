@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T10:07:32.094594+07:00",
+  "updatedAt": "2026-11-19T17:57:57.386057+07:00",
   "items": [
     {
       "id": "site-practice:ochnoe",
@@ -11,6 +11,7 @@
       "date": null,
       "url": "https://www.satehm.ru/studentam/ochnoe-otdelenie",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     },
@@ -23,6 +24,7 @@
       "date": null,
       "url": "https://www.satehm.ru/profdemo/",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     },
@@ -35,18 +37,20 @@
       "date": null,
       "url": "https://www.satehm.ru/userfiles/ufiles/studentam/raspisanie_s_17.11.2026.pdf",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     },
     {
-      "id": "site-practice:https://www.satehm.ru/userfiles/ufiles/studentam/izmeneniya_chetverg_19.11.pdf",
+      "id": "site-practice:https://www.satehm.ru/userfiles/ufiles/studentam/izmeneniya_pyatnitsa_20.11.pdf",
       "source": "site",
       "category": "practice",
       "title": "Замены в расписании",
       "text": "Материал сайта техникума.",
       "date": null,
-      "url": "https://www.satehm.ru/userfiles/ufiles/studentam/izmeneniya_chetverg_19.11.pdf",
+      "url": "https://www.satehm.ru/userfiles/ufiles/studentam/izmeneniya_pyatnitsa_20.11.pdf",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     },
@@ -59,6 +63,7 @@
       "date": null,
       "url": "https://max.ru/vuz_schedule_bot",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     },
@@ -71,6 +76,7 @@
       "date": null,
       "url": "https://www.satehm.ru/userfiles/ufiles/studentam/",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     },
@@ -83,6 +89,7 @@
       "date": null,
       "url": "https://www.satehm.ru/userfiles/images/",
       "imageUrl": null,
+      "videoUrl": null,
       "images": [],
       "archived": false
     }

@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T10:07:32.094594+07:00",
+  "updatedAt": "2026-11-19T17:57:57.386057+07:00",
   "vkOk": true,
   "siteOk": true,
   "counts": {
@@ -9,6 +9,6 @@
     "news": 50,
     "session": 4,
     "practice": 7,
-    "archive": 32
+    "archive": 36
   }
 }

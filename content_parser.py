@@ -123,6 +123,7 @@ def item(
     date: str | None = None,
     url: str | None = None,
     image_url: str | None = None,
+    video_url: str | None = None,
     images: list[str] | None = None,
 ) -> dict[str, Any]:
     return {
@@ -134,6 +135,7 @@ def item(
         "date": date,
         "url": url,
         "imageUrl": image_url,
+        "videoUrl": video_url,
         "images": images or [],
         "archived": False,
     }
@@ -295,6 +297,25 @@ def vk_image(post: dict[str, Any]) -> tuple[str | None, list[str]]:
     return (unique[0] if unique else None), unique
 
 
+def vk_video(post: dict[str, Any]) -> str | None:
+    """Ссылка на видео VK (открывается в VK/браузере)."""
+    for attachment in post.get("attachments") or []:
+        video = attachment.get("video") if attachment.get("type") == "video" else None
+        if not video:
+            continue
+        owner_id = video.get("owner_id")
+        video_id = video.get("id")
+        if owner_id and video_id:
+            access = video.get("access_key")
+            suffix = f"?access_key={urllib.parse.quote(access)}" if access else ""
+            return f"https://vk.com/video{owner_id}_{video_id}{suffix}"
+    for copy in post.get("copy_history") or []:
+        found = vk_video(copy)
+        if found:
+            return found
+    return None
+
+
 def vk_items() -> tuple[list[dict[str, Any]], bool]:
     if not VK_TOKEN:
         log("VK_TOKEN не задан — VK пропущен")
@@ -323,6 +344,7 @@ def vk_items() -> tuple[list[dict[str, Any]], bool]:
         title = lines[0] if lines else "Пост VK"
         description = "\n".join(lines[1:])
         image, images = vk_image(post)
+        video_url = vk_video(post)
         date = datetime.fromtimestamp(post.get("date", 0), TZ).date().isoformat()
         result.append(item(
             f"vk:{post.get('owner_id')}_{post.get('id')}",
@@ -333,6 +355,7 @@ def vk_items() -> tuple[list[dict[str, Any]], bool]:
             date=date,
             url=f"https://vk.com/wall{post.get('owner_id')}_{post.get('id')}",
             image_url=image,
+            video_url=video_url,
             images=images,
         ))
     log(f"VK posts: {len(result)}")
