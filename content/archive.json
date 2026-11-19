@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-19T17:57:57.386057+07:00",
+  "updatedAt": "2026-11-19T18:47:35.822482+07:00",
   "items": [
     {
       "id": "vk:-163602619_4305",
@@ -588,6 +588,24 @@
       ],
       "archived": true,
       "archivedAt": "2026-11-19T17:57:57.385846+07:00"
+    },
+    {
+      "id": "vk:-163602619_4351",
+      "source": "vk",
+      "category": "news",
+      "title": "Пост VK",
+      "text": "",
+      "date": "2026-11-05",
+      "url": "https://vk.com/wall-163602619_4351",
+      "imageUrl": "https://sun9-71.userapi.com/s/v1/ig2/UBNQ2qd9VwGNBEM7VJhDmyuS49FyQjEgpr9JvK4Ms32HjOq-hfzwr3KH3KBWuzLrHWmSKnz_M9gwT9N7jUKhSg6Y.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&cs=2560x0",
+      "videoUrl": null,
+      "images": [
+        "https://sun9-71.userapi.com/s/v1/ig2/UBNQ2qd9VwGNBEM7VJhDmyuS49FyQjEgpr9JvK4Ms32HjOq-hfzwr3KH3KBWuzLrHWmSKnz_M9gwT9N7jUKhSg6Y.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&cs=2560x0",
+        "https://sun9-52.userapi.com/s/v1/ig2/WgdZxV8lYqOBpccTxaSLtZUxDIXujbO5LA2hMeTofYn95bavK7lScosWCaSGyI_RAubVkoNw-aZ6zTp3k9yLz6jc.jpg?quality=95&as=32x18,48x27,72x40,108x61,160x90,240x135,360x202,480x270,540x304,640x360,720x405,1080x607,1280x720,1440x810,2560x1440&from=bu&cs=2560x0",
+        "https://sun9-84.userapi.com/s/v1/ig2/qBXyiO9Ut_yH_Gc_BoRLENJhjbZl4bv8XgXoTltXhO5i3sJKh4ivcsuaos_hGAn21pbBus2jRdzVSd1Er5tJKHeO.jpg?quality=95&as=32x57,48x85,72x128,108x192,160x284,240x427,360x640,480x853,540x960,640x1138,720x1280,1080x1920,1280x2276,1440x2560&from=bu&cs=1440x0"
+      ],
+      "archived": true,
+      "archivedAt": "2026-11-19T18:47:35.822356+07:00"
     }
   ]
 }

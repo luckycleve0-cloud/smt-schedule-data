@@ -448,6 +448,21 @@ def main() -> int:
         session, practice = [], []
 
     feed = vk + news
+    # VK иногда публикует один и тот же текст двумя постами — в ленте
+    # оставляем только первый вариант.
+    seen_feed = set()
+    unique_feed = []
+    for entry in feed:
+        key = (
+            entry.get("date") or "",
+            entry.get("source") or "",
+            re.sub(r"\\s+", " ", entry.get("title") or "").lower().strip(),
+        )
+        if key in seen_feed:
+            continue
+        seen_feed.add(key)
+        unique_feed.append(entry)
+    feed = unique_feed
     previous = load_json(OUT / "feed.json", {"items": []}).get("items") or []
     archive = archive_old(previous, feed, vk_ok, site_ok)
     now = datetime.now(TZ).isoformat()
