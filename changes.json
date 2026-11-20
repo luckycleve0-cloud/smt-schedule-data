@@ -1,86 +1,6 @@
 {
- "generated_at": "2026-11-19T17:07:08",
+ "generated_at": "2026-11-20T16:07:09",
  "sets": [
-  {
-   "date": "2026-11-17",
-   "day_title": null,
-   "week_type": null,
-   "items": [
-    {
-     "tape": 1,
-     "group": "202-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "202-КАРХ",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "202-КАРХ",
-     "subject": "МДК 02.01",
-     "teacher": null,
-     "room": "А 3-09",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "202-КАРХ",
-     "subject": "МДК 02.02",
-     "teacher": null,
-     "room": "А 3-09",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "108-КДП",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "108-КДП-26"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "202-КСЭЗ",
-     "subject": "ИТПД",
-     "teacher": null,
-     "room": "А 3-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-КСЭЗ-25"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_vtornik_17.11.pdf"
-  },
   {
    "date": "2026-11-18",
    "day_title": "среда",
@@ -260,6 +180,38 @@
     }
    ],
    "source": "site: izmeneniya_pyatnitsa_20.11.pdf"
+  },
+  {
+   "date": "2026-11-21",
+   "day_title": "суббота",
+   "week_type": "знаменатель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "348-КЭП",
+     "subject": "ПОПД",
+     "teacher": null,
+     "room": "А 2-01",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "348-КЭП-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "405-КПК",
+     "subject": "Основы философии",
+     "teacher": null,
+     "room": "А 1-02",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "405-КПК-23"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_subbota_21.11.pdf"
   }
  ]
 }
