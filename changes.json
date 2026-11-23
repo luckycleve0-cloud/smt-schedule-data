@@ -1,62 +1,6 @@
 {
- "generated_at": "2026-11-22T21:07:10",
+ "generated_at": "2026-11-23T19:06:49",
  "sets": [
-  {
-   "date": "2026-11-20",
-   "day_title": "пятница",
-   "week_type": "знаменатель",
-   "items": [
-    {
-     "tape": 2,
-     "group": "405-КПК",
-     "subject": "МДК 06.01",
-     "teacher": null,
-     "room": null,
-     "remote": true,
-     "cancelled": false,
-     "groups": [
-      "405-КПК-23"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "348-КЭП",
-     "subject": "МДК 06.01",
-     "teacher": null,
-     "room": "А 2-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "348-КЭП-24"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "202-КАРХ",
-     "subject": "МДК 02.02",
-     "teacher": null,
-     "room": "А 2-03",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    },
-    {
-     "tape": 4,
-     "group": "202-КАРХ",
-     "subject": "МДК 02.02",
-     "teacher": null,
-     "room": "А 2-03",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "202-КАРХ-25"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_pyatnitsa_20.11.pdf"
-  },
   {
    "date": "2026-11-21",
    "day_title": "суббота",
@@ -120,6 +64,62 @@
     }
    ],
    "source": "site: izmeneniya_ponedelnik_23.11.pdf"
+  },
+  {
+   "date": "2026-11-24",
+   "day_title": "вторник",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 1,
+     "group": "108-КДП",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "108-КДП-26"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "259-ТМ",
+     "subject": "Техническая механика",
+     "teacher": null,
+     "room": "А 1-11",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "259-ТМ-25"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "306-КПК",
+     "subject": "Безопасность жизнедеятельности",
+     "teacher": null,
+     "room": "Б 1-07",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "306-КПК-24"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "207-ПК",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "207-ПК-25"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_vtornik_24.11.2026.pdf"
   }
  ]
 }
