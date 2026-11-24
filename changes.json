@@ -1,38 +1,6 @@
 {
- "generated_at": "2026-11-23T19:06:49",
+ "generated_at": "2026-11-24T17:07:11",
  "sets": [
-  {
-   "date": "2026-11-21",
-   "day_title": "суббота",
-   "week_type": "знаменатель",
-   "items": [
-    {
-     "tape": 1,
-     "group": "348-КЭП",
-     "subject": "ПОПД",
-     "teacher": null,
-     "room": "А 2-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "348-КЭП-24"
-     ]
-    },
-    {
-     "tape": 2,
-     "group": "405-КПК",
-     "subject": "Основы философии",
-     "teacher": null,
-     "room": "А 1-02",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "405-КПК-23"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_subbota_21.11.pdf"
-  },
   {
    "date": "2026-11-23",
    "day_title": "понедельник",
@@ -120,6 +88,74 @@
     }
    ],
    "source": "site: izmeneniya_vtornik_24.11.2026.pdf"
+  },
+  {
+   "date": "2026-11-25",
+   "day_title": "среда",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 4,
+     "group": "259-ТМ",
+     "subject": "1 час - МДК 02.01 2 час- Техническая механика",
+     "teacher": null,
+     "room": "М-13 А 1-11",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "259-ТМ-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "306-КПК",
+     "subject": "Безопасность жизнедеятельности",
+     "teacher": null,
+     "room": "Б 1-07",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "306-КПК-24"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "306-КПК",
+     "subject": "МДК 01.02",
+     "teacher": null,
+     "room": "Б Л-2",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "306-КПК-24"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "202-РАП",
+     "subject": "МДК 01.02",
+     "teacher": null,
+     "room": "А 4-07",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-РАП-25"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "249-КЭП",
+     "subject": "МДК 01.01",
+     "teacher": null,
+     "room": "А 2-04",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "249-КЭП-25"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_sreda_25.11.pdf"
   }
  ]
 }
