@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:07:09",
+ "generated_at": "2026-11-25T16:07:08",
  "sets": [
   {
    "date": "2026-11-23",
@@ -156,6 +156,38 @@
     }
    ],
    "source": "site: izmeneniya_sreda_25.11.pdf"
+  },
+  {
+   "date": "2026-11-26",
+   "day_title": "четверг",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 4,
+     "group": "259-ТМ",
+     "subject": "Физкультура",
+     "teacher": null,
+     "room": "А",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "259-ТМ-25"
+     ]
+    },
+    {
+     "tape": 1,
+     "group": "202-РАП",
+     "subject": "МДК 01.02",
+     "teacher": null,
+     "room": "А 4-07",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-РАП-25"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_chetverg_26.11.pdf"
   }
  ]
 }
