@@ -1,38 +1,6 @@
 {
- "generated_at": "2026-11-25T16:07:08",
+ "generated_at": "2026-11-26T17:07:10",
  "sets": [
-  {
-   "date": "2026-11-23",
-   "day_title": "понедельник",
-   "week_type": "числитель",
-   "items": [
-    {
-     "tape": 4,
-     "group": "249-КЭП",
-     "subject": "МДК 03.01",
-     "teacher": null,
-     "room": "А 2-01",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "249-КЭП-25"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "103-КСЭЗ",
-     "subject": "Физика",
-     "teacher": null,
-     "room": "А 1-12",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "103-КСЭЗ-26"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_ponedelnik_23.11.pdf"
-  },
   {
    "date": "2026-11-24",
    "day_title": "вторник",
@@ -188,6 +156,122 @@
     }
    ],
    "source": "site: izmeneniya_chetverg_26.11.pdf"
+  },
+  {
+   "date": "2026-11-27",
+   "day_title": "пятница",
+   "week_type": "числитель",
+   "items": [
+    {
+     "tape": 3,
+     "group": "259-ТМ",
+     "subject": "Физкультура",
+     "teacher": null,
+     "room": "А",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "259-ТМ-25"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "202-РАП",
+     "subject": "МДК 02.01",
+     "teacher": null,
+     "room": "А 4-07",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "202-РАП-25"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "306-КПК",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "306-КПК-24"
+     ]
+    },
+    {
+     "tape": 4,
+     "group": "306-КПК",
+     "subject": "МДК 01.02",
+     "teacher": null,
+     "room": "Б Л-1",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "306-КПК-24"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "130-СВ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "130-СВ-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "202-КИСП",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "202-КИСП-25"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "103-КСЭЗ",
+     "subject": "Литература",
+     "teacher": null,
+     "room": "Б 3-03",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "103-КСЭЗ-26"
+     ]
+    },
+    {
+     "tape": 3,
+     "group": "103-КСЭЗ",
+     "subject": null,
+     "teacher": null,
+     "room": null,
+     "remote": false,
+     "cancelled": true,
+     "groups": [
+      "103-КСЭЗ-26"
+     ]
+    },
+    {
+     "tape": 2,
+     "group": "238-ТО",
+     "subject": "Техническая механика",
+     "teacher": null,
+     "room": "А 1-11",
+     "remote": false,
+     "cancelled": false,
+     "groups": [
+      "238-ТО-25"
+     ]
+    }
+   ],
+   "source": "site: izmeneniya_pyatnitsa_27.11.pdf"
   }
  ]
 }
