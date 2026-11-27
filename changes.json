@@ -1,62 +1,6 @@
 {
- "generated_at": "2026-11-26T17:07:10",
+ "generated_at": "2026-11-27T16:07:18",
  "sets": [
-  {
-   "date": "2026-11-24",
-   "day_title": "вторник",
-   "week_type": "числитель",
-   "items": [
-    {
-     "tape": 1,
-     "group": "108-КДП",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "108-КДП-26"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "259-ТМ",
-     "subject": "Техническая механика",
-     "teacher": null,
-     "room": "А 1-11",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "259-ТМ-25"
-     ]
-    },
-    {
-     "tape": 1,
-     "group": "306-КПК",
-     "subject": "Безопасность жизнедеятельности",
-     "teacher": null,
-     "room": "Б 1-07",
-     "remote": false,
-     "cancelled": false,
-     "groups": [
-      "306-КПК-24"
-     ]
-    },
-    {
-     "tape": 3,
-     "group": "207-ПК",
-     "subject": null,
-     "teacher": null,
-     "room": null,
-     "remote": false,
-     "cancelled": true,
-     "groups": [
-      "207-ПК-25"
-     ]
-    }
-   ],
-   "source": "site: izmeneniya_vtornik_24.11.2026.pdf"
-  },
   {
    "date": "2026-11-25",
    "day_title": "среда",
